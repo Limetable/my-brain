@@ -1,0 +1,3 @@
+isMalware = false
+isAdware = false
+isStealer = false
